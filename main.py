@@ -1,4 +1,2 @@
-print("hello world")
+print("hello world2024")
 
-print("hello")
-print("демонстрация")
